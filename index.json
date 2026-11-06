@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "mscgen",
+  "versions": [
+    {
+      "commit": "4dfa974b8b89155649c3e737e753195ae46a8645",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:53:57.813827+00:00"
+    }
+  ]
+}
